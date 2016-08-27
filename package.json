@@ -1,0 +1,26 @@
+{
+  "name": "react-native-wechat-ui",
+  "version": "0.0.1",
+  "description": "WeUI components for React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaobuu/react-native-wechat-ui.git"
+  },
+  "keywords": [
+    "React",
+    "Native",
+    "Wechat",
+    "WeUI",
+    "bootstrap"
+  ],
+  "author": "Xiaobuu <yaotianyu0512@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaobuu/react-native-wechat-ui/issues"
+  },
+  "homepage": "https://github.com/xiaobuu/react-native-wechat-ui#readme"
+}
